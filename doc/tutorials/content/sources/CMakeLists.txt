@@ -58,6 +58,9 @@ foreach(subdir
           # Additional/Complex tutorials presented at PCL events
           iros2011
           iccv2011
+	  #QT and VTK 5.0
+	  qt_visualizer
+	  qt_colorize_cloud
 		  normal_estimation_using_integral_images
        )
 
